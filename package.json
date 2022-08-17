@@ -1,0 +1,23 @@
+{
+  "name": "ola-express",
+  "version": "1.0.0",
+  "description": "Using Node.js we can produce different web pages or data based on what info is found after",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abd1-h/Ola-Express.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abd1-h/Ola-Express/issues"
+  },
+  "homepage": "https://github.com/Abd1-h/Ola-Express#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}
